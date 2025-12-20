@@ -1,1 +1,21 @@
 test file for commit.
+API Lifecyle for Integration manager role#
+High-Level Phases#
+
+Strategy & Requirement Discovery
+
+API Design & Contract Definition
+
+Security & Access Planning
+
+Development & Integration
+
+Testing & Validation
+
+Deployment & Exposure
+
+Monitoring & Operations
+
+Versioning & Change Management
+
+Deprecation & Retirement
