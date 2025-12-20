@@ -1,0 +1,1629 @@
+{
+    "count": 1,
+    "patentFileWrapperDataBag": [
+        {
+            "applicationMetaData": {
+                "applicationConfirmationNumber": 3267,
+                "applicationStatusCode": 150,
+                "applicationStatusDate": "2003-06-12",
+                "applicationStatusDescriptionText": "Patented Case",
+                "applicationTypeCategory": "REGULAR",
+                "applicationTypeCode": "UTL",
+                "applicationTypeLabelName": "Utility",
+                "class": "623",
+                "cpcClassificationBag": [
+                    "A61F   2/88",
+                    "A61F2220/005",
+                    "A61F2220/0058",
+                    "A61F2250/0042",
+                    "A61F2250/0048"
+                ],
+                "customerNumber": 115127,
+                "docketNumber": "S63.2-9703-US01",
+                "earliestPublicationDate": "2002-10-17",
+                "earliestPublicationNumber": "US20020151966A1",
+                "effectiveFilingDate": "2001-03-28",
+                "entityStatusData": {
+                    "businessEntityStatusCategory": "Regular Undiscounted"
+                },
+                "examinerNameText": "GHERBI, SUZETTE JAIME J",
+                "filingDate": "2001-03-28",
+                "firstInventorName": "Joseph C. Eder",
+                "firstInventorToFileIndicator": "N",
+                "grantDate": "2003-07-01",
+                "groupArtUnitNumber": "3738",
+                "inventionTitle": "EXPANDABLE COIL STENT",
+                "inventorBag": [
+                    {
+                        "correspondenceAddressBag": [
+                            {
+                                "cityName": "Los Altos Hills",
+                                "geographicRegionCode": "CA",
+                                "geographicRegionName": "CALIFORNIA",
+                                "nameLineOneText": "Joseph C. Eder",
+                                "postalAddressCategory": "residence"
+                            }
+                        ],
+                        "countryCode": "US",
+                        "firstName": "Joseph",
+                        "inventorNameText": "Joseph C. Eder",
+                        "lastName": "Eder",
+                        "middleName": "C."
+                    },
+                    {
+                        "correspondenceAddressBag": [
+                            {
+                                "cityName": "Pleasanton",
+                                "geographicRegionCode": "CA",
+                                "geographicRegionName": "CALIFORNIA",
+                                "nameLineOneText": "Lex P. Jansen",
+                                "postalAddressCategory": "residence"
+                            }
+                        ],
+                        "countryCode": "NL",
+                        "firstName": "Lex",
+                        "inventorNameText": "Lex P. Jansen",
+                        "lastName": "Jansen",
+                        "middleName": "P."
+                    }
+                ],
+                "nationalStageIndicator": false,
+                "patentNumber": "6585753",
+                "publicationCategoryBag": [
+                    "Granted/Issued",
+                    "Pre-Grant Publications - PGPub"
+                ],
+                "publicationDateBag": [
+                    "2002-10-17"
+                ],
+                "publicationSequenceNumberBag": [
+                    "0151966"
+                ],
+                "subclass": "1.18",
+                "uspcSymbolText": "623/1.18"
+            },
+            "applicationNumberText": "09681394",
+            "assignmentBag": [
+                {
+                    "assigneeBag": [
+                        {
+                            "assigneeAddress": {
+                                "addressLineOneText": "THE CORPORATION TRUST COMPANY, 1209 ORANGE STREET",
+                                "cityName": "WILMINGTON",
+                                "countryName": "UNITED STATES",
+                                "countryOrStateCode": "DE",
+                                "geographicRegionName": "DELAWARE",
+                                "ictCountryCode": "US",
+                                "ictStateCode": "DE",
+                                "lastIngestionTime": "2025-11-25T18:24:02",
+                                "postalCode": "19801"
+                            },
+                            "assigneeNameText": "STRYKER EUROPEAN HOLDINGS III, LLC"
+                        }
+                    ],
+                    "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/52861/1",
+                    "assignmentMailedDate": "2020-06-09",
+                    "assignmentReceivedDate": "2020-06-07",
+                    "assignmentRecordedDate": "2020-06-07",
+                    "assignorBag": [
+                        {
+                            "assignorName": "STRYKER EUROPEAN HOLDINGS I, LLC",
+                            "executionDate": "2020-05-19"
+                        }
+                    ],
+                    "attorneyDocketNumber": "SYKCOR.107",
+                    "conveyanceText": "NUNC PRO TUNC ASSIGNMENT",
+                    "correspondenceAddress": {
+                        "addressLineOneText": "20 COMMERCE DRIVE",
+                        "addressLineTwoText": "CRANFORD, NJ 07016",
+                        "correspondentNameText": "LERNER DAVID"
+                    },
+                    "frameNumber": 1,
+                    "imageAvailableStatusCode": true,
+                    "pageTotalQuantity": 239,
+                    "reelAndFrameNumber": "052861/0001",
+                    "reelNumber": 52861
+                },
+                {
+                    "assigneeBag": [
+                        {
+                            "assigneeAddress": {
+                                "addressLineOneText": "2825 AIRVIEW BOULEVARD",
+                                "cityName": "KALAMAZOO",
+                                "countryName": "UNITED STATES",
+                                "countryOrStateCode": "MI",
+                                "geographicRegionName": "MICHIGAN",
+                                "ictCountryCode": "US",
+                                "ictStateCode": "MI",
+                                "lastIngestionTime": "2025-11-25T18:24:02",
+                                "postalCode": "49002"
+                            },
+                            "assigneeNameText": "STRYKER EUROPEAN OPERATIONS HOLDINGS LLC"
+                        }
+                    ],
+                    "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/52860/716",
+                    "assignmentMailedDate": "2020-06-09",
+                    "assignmentReceivedDate": "2020-06-07",
+                    "assignmentRecordedDate": "2020-06-07",
+                    "assignorBag": [
+                        {
+                            "assignorName": "STRYKER EUROPEAN HOLDINGS III, LLC",
+                            "executionDate": "2019-02-26"
+                        }
+                    ],
+                    "attorneyDocketNumber": "SYKCOR.107",
+                    "conveyanceText": "CHANGE OF NAME",
+                    "correspondenceAddress": {
+                        "addressLineOneText": "20 COMMERCE DRIVE",
+                        "addressLineTwoText": "CRANFORD, NJ 07016",
+                        "correspondentNameText": "LERNER DAVID"
+                    },
+                    "frameNumber": 716,
+                    "imageAvailableStatusCode": true,
+                    "pageTotalQuantity": 34,
+                    "reelAndFrameNumber": "052860/0716",
+                    "reelNumber": 52860
+                },
+                {
+                    "assigneeBag": [
+                        {
+                            "assigneeAddress": {
+                                "addressLineOneText": "2825 AIRVIEW BOULEVARD",
+                                "cityName": "KALAMAZOO",
+                                "geographicRegionName": "MI",
+                                "lastIngestionTime": "2025-11-25T18:24:02",
+                                "postalCode": "49002"
+                            },
+                            "assigneeNameText": "STRYKER EUROPEAN HOLDINGS I, LLC"
+                        }
+                    ],
+                    "assignmentMailedDate": "2016-03-22",
+                    "assignmentReceivedDate": "2016-03-08",
+                    "assignmentRecordedDate": "2016-03-08",
+                    "assignorBag": [
+                        {
+                            "assignorName": "STRYKER MEDTECH LIMITED",
+                            "executionDate": "2015-10-13"
+                        }
+                    ],
+                    "conveyanceText": "FREE FORM MESSAGE",
+                    "correspondenceAddress": {
+                        "addressLineOneText": "600 SOUTH AVENUE WEST",
+                        "addressLineTwoText": "WESTFIELD, NJ 07090",
+                        "correspondentNameText": "LDLKM"
+                    },
+                    "frameNumber": 11,
+                    "imageAvailableStatusCode": false,
+                    "pageTotalQuantity": 149,
+                    "reelAndFrameNumber": "038043/0011",
+                    "reelNumber": 38043
+                },
+                {
+                    "assigneeBag": [
+                        {
+                            "assigneeAddress": {
+                                "addressLineOneText": "171, OLD BAKERY STREET",
+                                "cityName": "VALLETTA",
+                                "geographicRegionName": "MTX",
+                                "lastIngestionTime": "2025-11-25T18:24:02",
+                                "postalCode": "VLT 1455"
+                            },
+                            "assigneeNameText": "STRYKER MEDTECH LIMITED"
+                        }
+                    ],
+                    "assignmentMailedDate": "2016-03-21",
+                    "assignmentReceivedDate": "2016-03-08",
+                    "assignmentRecordedDate": "2016-03-08",
+                    "assignorBag": [
+                        {
+                            "assignorName": "STRYKER NV OPERATIONS LIMITED",
+                            "executionDate": "2015-10-13"
+                        }
+                    ],
+                    "conveyanceText": "FREE FORM MESSAGE",
+                    "correspondenceAddress": {
+                        "addressLineOneText": "600 SOUTH AVENUE WEST",
+                        "addressLineTwoText": "WESTFIELD, NJ 07090",
+                        "correspondentNameText": "LDLKM"
+                    },
+                    "frameNumber": 1,
+                    "imageAvailableStatusCode": false,
+                    "pageTotalQuantity": 122,
+                    "reelAndFrameNumber": "038039/0001",
+                    "reelNumber": 38039
+                },
+                {
+                    "assigneeBag": [
+                        {
+                            "assigneeAddress": {
+                                "addressLineOneText": "171, OLD BAKERY STREET",
+                                "cityName": "VALLETTA",
+                                "geographicRegionName": "MTX",
+                                "lastIngestionTime": "2025-11-25T18:24:02",
+                                "postalCode": "VLT 1455"
+                            },
+                            "assigneeNameText": "STRYKER MEDTECH LIMITED"
+                        }
+                    ],
+                    "assignmentMailedDate": "2015-11-30",
+                    "assignmentReceivedDate": "2015-11-23",
+                    "assignmentRecordedDate": "2015-11-23",
+                    "assignorBag": [
+                        {
+                            "assignorName": "STRYKER NV OPERATIONS LIMITED",
+                            "executionDate": "2015-10-13"
+                        }
+                    ],
+                    "conveyanceText": "NUNC PRO TUNC ASSIGNMENT (SEE DOCUMENT FOR DETAILS).",
+                    "correspondenceAddress": {
+                        "addressLineOneText": "600 SOUTH AVENUE WEST",
+                        "addressLineTwoText": "WESTFIELD, NJ 07090",
+                        "correspondentNameText": "LDLKM"
+                    },
+                    "frameNumber": 34,
+                    "imageAvailableStatusCode": false,
+                    "pageTotalQuantity": 122,
+                    "reelAndFrameNumber": "037153/0034",
+                    "reelNumber": 37153
+                },
+                {
+                    "assigneeBag": [
+                        {
+                            "assigneeAddress": {
+                                "addressLineOneText": "2825 AIRVIEW BOULEVARD",
+                                "cityName": "KALAMAZOO",
+                                "geographicRegionName": "MI",
+                                "lastIngestionTime": "2025-11-25T18:24:02",
+                                "postalCode": "49002"
+                            },
+                            "assigneeNameText": "STRYKER EUROPEAN HOLDINGS I, LLC"
+                        }
+                    ],
+                    "assignmentMailedDate": "2015-11-30",
+                    "assignmentReceivedDate": "2015-11-23",
+                    "assignmentRecordedDate": "2015-11-23",
+                    "assignorBag": [
+                        {
+                            "assignorName": "STRYKER MEDTECH LIMITED",
+                            "executionDate": "2015-10-13"
+                        }
+                    ],
+                    "conveyanceText": "NUNC PRO TUNC ASSIGNMENT (SEE DOCUMENT FOR DETAILS).",
+                    "correspondenceAddress": {
+                        "addressLineOneText": "600 SOUTH AVENUE WEST",
+                        "addressLineTwoText": "WESTFIELD, NJ 07090",
+                        "correspondentNameText": "LDLKM"
+                    },
+                    "frameNumber": 241,
+                    "imageAvailableStatusCode": false,
+                    "pageTotalQuantity": 150,
+                    "reelAndFrameNumber": "037153/0241",
+                    "reelNumber": 37153
+                },
+                {
+                    "assigneeBag": [
+                        {
+                            "assigneeAddress": {
+                                "addressLineOneText": "2825 AIRVIEW BOULEVARD",
+                                "cityName": "KALAMAZOO",
+                                "geographicRegionName": "MI",
+                                "lastIngestionTime": "2025-11-25T18:24:02",
+                                "postalCode": "49002"
+                            },
+                            "assigneeNameText": "STRYKER CORPORATION"
+                        },
+                        {
+                            "assigneeAddress": {
+                                "addressLineOneText": "ARTHUR COX BUILDING",
+                                "addressLineTwoText": "EARLSFORT TERRACE",
+                                "cityName": "DUBLIN 2",
+                                "geographicRegionName": "IEX",
+                                "lastIngestionTime": "2025-11-25T18:24:02"
+                            },
+                            "assigneeNameText": "STRYKER NV OPERATIONS LIMITED"
+                        }
+                    ],
+                    "assignmentMailedDate": "2011-03-20",
+                    "assignmentReceivedDate": "2011-03-17",
+                    "assignmentRecordedDate": "2011-03-17",
+                    "assignorBag": [
+                        {
+                            "assignorName": "BOSTON SCIENTIFIC SCIMED, INC.",
+                            "executionDate": "2011-01-03"
+                        }
+                    ],
+                    "conveyanceText": "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+                    "correspondenceAddress": {
+                        "addressLineOneText": "12930 SARATOGA AVE.",
+                        "addressLineThreeText": "SARATOGA, CA 95070",
+                        "addressLineTwoText": "SUITE D-2",
+                        "correspondentNameText": "VISTA IP LAW GROUP LLP"
+                    },
+                    "frameNumber": 841,
+                    "imageAvailableStatusCode": false,
+                    "pageTotalQuantity": 66,
+                    "reelAndFrameNumber": "025969/0841",
+                    "reelNumber": 25969
+                },
+                {
+                    "assigneeBag": [
+                        {
+                            "assigneeAddress": {
+                                "addressLineOneText": "ONE SCIMED PLACE",
+                                "cityName": "MAPLE GROVE",
+                                "countryName": "UNITED STATES",
+                                "countryOrStateCode": "MN",
+                                "geographicRegionName": "MINNESOTA",
+                                "ictCountryCode": "US",
+                                "ictStateCode": "MN",
+                                "lastIngestionTime": "2025-11-25T18:24:02",
+                                "postalCode": "55311-1566"
+                            },
+                            "assigneeNameText": "BOSTON SCIENTIFIC SCIMED, INC."
+                        }
+                    ],
+                    "assignmentDocumentLocationURI": "https://assignmentcenter.uspto.gov/ipas/search/api/v2/public/download/patent/18505/868",
+                    "assignmentMailedDate": "2006-11-14",
+                    "assignmentReceivedDate": "2006-11-06",
+                    "assignmentRecordedDate": "2006-11-06",
+                    "assignorBag": [
+                        {
+                            "assignorName": "SCIMED LIFE SYSTEMS, INC.",
+                            "executionDate": "2005-01-01"
+                        }
+                    ],
+                    "attorneyDocketNumber": "10527-783001",
+                    "conveyanceText": "CHANGE OF NAME",
+                    "correspondenceAddress": {
+                        "addressLineOneText": "FISH & RICHARDSON P.C.",
+                        "addressLineThreeText": "BOSTON, MA 02110",
+                        "addressLineTwoText": "225 FRANKLIN STREET",
+                        "correspondentNameText": "TIMOTHY A. FRENCH"
+                    },
+                    "frameNumber": 868,
+                    "imageAvailableStatusCode": true,
+                    "pageTotalQuantity": 56,
+                    "reelAndFrameNumber": "018505/0868",
+                    "reelNumber": 18505
+                },
+                {
+                    "assigneeBag": [
+                        {
+                            "assigneeAddress": {
+                                "addressLineTwoText": "ONE SCIMED PLACE",
+                                "cityName": "MAPLE GROVE",
+                                "geographicRegionName": "MN",
+                                "lastIngestionTime": "2025-11-25T18:24:02",
+                                "postalCode": "55311"
+                            },
+                            "assigneeNameText": "SCIMED LIFE SYSTEMS, INC."
+                        }
+                    ],
+                    "assignmentMailedDate": "2001-04-18",
+                    "assignmentReceivedDate": "2001-03-28",
+                    "assignmentRecordedDate": "2001-03-28",
+                    "assignorBag": [
+                        {
+                            "assignorName": "JOSEPH C. EDER",
+                            "executionDate": "2001-03-26"
+                        },
+                        {
+                            "assignorName": "LEX P. JANSEN",
+                            "executionDate": "2001-03-26"
+                        }
+                    ],
+                    "conveyanceText": "ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).",
+                    "correspondenceAddress": {
+                        "addressLineOneText": "6109 BLUE CIRCLE DRIVE",
+                        "addressLineThreeText": "MINNETONKA, MN 55343",
+                        "addressLineTwoText": "SUITE 2000",
+                        "correspondentNameText": "VIDAS, ARRETT & STEINKRAUS, P.A."
+                    },
+                    "frameNumber": 163,
+                    "imageAvailableStatusCode": false,
+                    "pageTotalQuantity": 3,
+                    "reelAndFrameNumber": "011489/0163",
+                    "reelNumber": 11489
+                }
+            ],
+            "childContinuityBag": [
+                {
+                    "childApplicationFilingDate": "2006-02-07",
+                    "childApplicationNumberText": "11348991",
+                    "childApplicationStatusCode": 150,
+                    "childApplicationStatusDescriptionText": "Patented Case",
+                    "childPatentNumber": "7309352",
+                    "claimParentageTypeCode": "CON",
+                    "claimParentageTypeCodeDescriptionText": "is a Continuation of",
+                    "firstInventorToFileIndicator": false,
+                    "parentApplicationNumberText": "09681394"
+                },
+                {
+                    "childApplicationFilingDate": "2002-03-06",
+                    "childApplicationNumberText": "PCTUS0206994",
+                    "childApplicationStatusCode": 218,
+                    "childApplicationStatusDescriptionText": "RO PROCESSING COMPLETED-PLACED IN STORAGE",
+                    "claimParentageTypeCode": "CON",
+                    "claimParentageTypeCodeDescriptionText": "is a Continuation of",
+                    "parentApplicationNumberText": "09681394"
+                },
+                {
+                    "childApplicationFilingDate": "2007-12-18",
+                    "childApplicationNumberText": "11958491",
+                    "childApplicationStatusCode": 250,
+                    "childApplicationStatusDescriptionText": "Patent Expired Due to NonPayment of Maintenance Fees Under 37 CFR 1.362",
+                    "childPatentNumber": "7491229",
+                    "claimParentageTypeCode": "CON",
+                    "claimParentageTypeCodeDescriptionText": "is a Continuation of",
+                    "firstInventorToFileIndicator": false,
+                    "parentApplicationNumberText": "09681394"
+                },
+                {
+                    "childApplicationFilingDate": "2003-07-01",
+                    "childApplicationNumberText": "10612030",
+                    "childApplicationStatusCode": 150,
+                    "childApplicationStatusDescriptionText": "Patented Case",
+                    "childPatentNumber": "7033385",
+                    "claimParentageTypeCode": "CON",
+                    "claimParentageTypeCodeDescriptionText": "is a Continuation of",
+                    "firstInventorToFileIndicator": false,
+                    "parentApplicationNumberText": "09681394"
+                }
+            ],
+            "correspondenceAddressBag": [
+                {
+                    "addressLineOneText": "100 Spectrum Center Drive",
+                    "addressLineTwoText": "Suite 900",
+                    "cityName": "Irvine",
+                    "countryCode": "US",
+                    "countryName": "UNITED STATES",
+                    "geographicRegionCode": "CA",
+                    "geographicRegionName": "CALIFORNIA",
+                    "nameLineOneText": "Vista IP Law Group (Stryker)",
+                    "postalCode": "92618"
+                }
+            ],
+            "eventDataBag": [
+                {
+                    "eventCode": "C.ADB",
+                    "eventDate": "2013-06-05",
+                    "eventDescriptionText": "Correspondence Address Change"
+                },
+                {
+                    "eventCode": "PA..",
+                    "eventDate": "2011-05-18",
+                    "eventDescriptionText": "Change in Power of Attorney (May Include Associate POA)"
+                },
+                {
+                    "eventCode": "C.AD",
+                    "eventDate": "2011-05-18",
+                    "eventDescriptionText": "Correspondence Address Change"
+                },
+                {
+                    "eventCode": "C.AD",
+                    "eventDate": "2011-01-20",
+                    "eventDescriptionText": "Correspondence Address Change"
+                },
+                {
+                    "eventCode": "PGM/",
+                    "eventDate": "2003-07-01",
+                    "eventDescriptionText": "Recordation of Patent Grant Mailed"
+                },
+                {
+                    "eventCode": "WPIR",
+                    "eventDate": "2003-06-12",
+                    "eventDescriptionText": "Issue Notification Mailed"
+                },
+                {
+                    "eventCode": "PTAC",
+                    "eventDate": "2003-07-01",
+                    "eventDescriptionText": "Patent Issue Date Used in PTA Calculation"
+                },
+                {
+                    "eventCode": "R1021",
+                    "eventDate": "2003-05-30",
+                    "eventDescriptionText": "Receipt into Pubs"
+                },
+                {
+                    "eventCode": "R1021",
+                    "eventDate": "2003-05-21",
+                    "eventDescriptionText": "Receipt into Pubs"
+                },
+                {
+                    "eventCode": "PILS",
+                    "eventDate": "2003-05-20",
+                    "eventDescriptionText": "Application Is Considered Ready for Issue"
+                },
+                {
+                    "eventCode": "N084",
+                    "eventDate": "2003-05-06",
+                    "eventDescriptionText": "Issue Fee Payment Verified"
+                },
+                {
+                    "eventCode": "DRWF",
+                    "eventDate": "2003-04-28",
+                    "eventDescriptionText": "Workflow - Drawings Finished"
+                },
+                {
+                    "eventCode": "DRWM",
+                    "eventDate": "2003-04-28",
+                    "eventDescriptionText": "Workflow - Drawings Matched with File at Contractor"
+                },
+                {
+                    "eventCode": "R1021",
+                    "eventDate": "2003-05-19",
+                    "eventDescriptionText": "Receipt into Pubs"
+                },
+                {
+                    "eventCode": "IFEE",
+                    "eventDate": "2003-05-06",
+                    "eventDescriptionText": "Issue Fee Payment Received"
+                },
+                {
+                    "eventCode": "DRWI",
+                    "eventDate": "2003-04-28",
+                    "eventDescriptionText": "Workflow - Drawings Received at Contractor"
+                },
+                {
+                    "eventCode": "DRWR",
+                    "eventDate": "2003-04-28",
+                    "eventDescriptionText": "Workflow - Drawings Sent to Contractor"
+                },
+                {
+                    "eventCode": "SENT",
+                    "eventDate": "2003-04-15",
+                    "eventDescriptionText": "Workflow - File Sent to Contractor"
+                },
+                {
+                    "eventCode": "R1021",
+                    "eventDate": "2003-04-14",
+                    "eventDescriptionText": "Receipt into Pubs"
+                },
+                {
+                    "eventCode": "D1220",
+                    "eventDate": "2003-04-09",
+                    "eventDescriptionText": "Dispatch to Publications"
+                },
+                {
+                    "eventCode": "MN/=.",
+                    "eventDate": "2003-04-02",
+                    "eventDescriptionText": "Mail Notice of Allowance"
+                },
+                {
+                    "eventCode": "N/=.",
+                    "eventDate": "2003-04-01",
+                    "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+                },
+                {
+                    "eventCode": "MM327",
+                    "eventDate": "2003-03-19",
+                    "eventDescriptionText": "Mail Miscellaneous Communication to Applicant"
+                },
+                {
+                    "eventCode": "M327",
+                    "eventDate": "2003-03-19",
+                    "eventDescriptionText": "Miscellaneous Communication to Applicant - No Action Count"
+                },
+                {
+                    "eventCode": "FWDX",
+                    "eventDate": "2003-03-11",
+                    "eventDescriptionText": "Date Forwarded to Examiner"
+                },
+                {
+                    "eventCode": "FWDX",
+                    "eventDate": "2003-03-11",
+                    "eventDescriptionText": "Date Forwarded to Examiner"
+                },
+                {
+                    "eventCode": "RCEX",
+                    "eventDate": "2003-02-27",
+                    "eventDescriptionText": "Request for Continued Examination (RCE)"
+                },
+                {
+                    "eventCode": "ABN9",
+                    "eventDate": "2003-03-11",
+                    "eventDescriptionText": "Disposal for a RCE / CPA / R129"
+                },
+                {
+                    "eventCode": "M844",
+                    "eventDate": "2003-02-26",
+                    "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+                },
+                {
+                    "eventCode": "WIDS",
+                    "eventDate": "2003-02-26",
+                    "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+                },
+                {
+                    "eventCode": "BRCE",
+                    "eventDate": "2003-02-27",
+                    "eventDescriptionText": "Workflow - Request for RCE - Begin"
+                },
+                {
+                    "eventCode": "MN/=.",
+                    "eventDate": "2003-02-13",
+                    "eventDescriptionText": "Mail Notice of Allowance"
+                },
+                {
+                    "eventCode": "N/=.",
+                    "eventDate": "2003-02-13",
+                    "eventDescriptionText": "Notice of Allowance Data Verification Completed"
+                },
+                {
+                    "eventCode": "FWDX",
+                    "eventDate": "2003-02-11",
+                    "eventDescriptionText": "Date Forwarded to Examiner"
+                },
+                {
+                    "eventCode": "A...",
+                    "eventDate": "2003-01-29",
+                    "eventDescriptionText": "Response after Non-Final Action"
+                },
+                {
+                    "eventCode": "XT/G",
+                    "eventDate": "2003-01-29",
+                    "eventDescriptionText": "Request for Extension of Time - Granted"
+                },
+                {
+                    "eventCode": "MCTNF",
+                    "eventDate": "2002-09-25",
+                    "eventDescriptionText": "Mail Non-Final Rejection"
+                },
+                {
+                    "eventCode": "CTNF",
+                    "eventDate": "2002-09-23",
+                    "eventDescriptionText": "Non-Final Rejection"
+                },
+                {
+                    "eventCode": "DOCK",
+                    "eventDate": "2002-09-23",
+                    "eventDescriptionText": "Case Docketed to Examiner in GAU"
+                },
+                {
+                    "eventCode": "M844",
+                    "eventDate": "2002-04-17",
+                    "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+                },
+                {
+                    "eventCode": "WIDS",
+                    "eventDate": "2002-04-17",
+                    "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+                },
+                {
+                    "eventCode": "DOCK",
+                    "eventDate": "2002-02-07",
+                    "eventDescriptionText": "Case Docketed to Examiner in GAU"
+                },
+                {
+                    "eventCode": "DOCK",
+                    "eventDate": "2002-02-05",
+                    "eventDescriptionText": "Case Docketed to Examiner in GAU"
+                },
+                {
+                    "eventCode": "M844",
+                    "eventDate": "2001-08-06",
+                    "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+                },
+                {
+                    "eventCode": "WIDS",
+                    "eventDate": "2001-08-06",
+                    "eventDescriptionText": "Information Disclosure Statement (IDS) Filed"
+                },
+                {
+                    "eventCode": "DOCK",
+                    "eventDate": "2001-07-20",
+                    "eventDescriptionText": "Case Docketed to Examiner in GAU"
+                },
+                {
+                    "eventCode": "OIPE",
+                    "eventDate": "2001-05-01",
+                    "eventDescriptionText": "Application Dispatched from OIPE"
+                },
+                {
+                    "eventCode": "C.AD",
+                    "eventDate": "2001-04-27",
+                    "eventDescriptionText": "Correspondence Address Change"
+                },
+                {
+                    "eventCode": "IEXX",
+                    "eventDate": "2001-03-28",
+                    "eventDescriptionText": "Initial Exam Team nn"
+                }
+            ],
+            "lastIngestionDateTime": "2025-11-26T00:26:33",
+            "patentTermAdjustmentData": {
+                "aDelayQuantity": 120,
+                "adjustmentTotalQuantity": 20,
+                "applicantDayDelayQuantity": 100,
+                "bDelayQuantity": 0,
+                "cDelayQuantity": 0,
+                "ipOfficeAdjustmentDelayQuantity": 0,
+                "nonOverlappingDayDelayQuantity": 120,
+                "overlappingDayQuantity": 0,
+                "patentTermAdjustmentHistoryDataBag": [
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-07-01",
+                        "eventDescriptionText": "Patent Issue Date Used in PTA Calculation",
+                        "eventSequenceNumber": 44.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-05-30",
+                        "eventDescriptionText": "Receipt into Pubs",
+                        "eventSequenceNumber": 43.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-05-21",
+                        "eventDescriptionText": "Receipt into Pubs",
+                        "eventSequenceNumber": 42.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-05-20",
+                        "eventDescriptionText": "Application Is Considered Ready for Issue",
+                        "eventSequenceNumber": 41.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-05-06",
+                        "eventDescriptionText": "Issue Fee Payment Verified",
+                        "eventSequenceNumber": 40.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-04-28",
+                        "eventDescriptionText": "Workflow - Drawings Finished",
+                        "eventSequenceNumber": 39.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-04-28",
+                        "eventDescriptionText": "Workflow - Drawings Matched with File at Contractor",
+                        "eventSequenceNumber": 38.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-05-19",
+                        "eventDescriptionText": "Receipt into Pubs",
+                        "eventSequenceNumber": 37.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-05-06",
+                        "eventDescriptionText": "Issue Fee Payment Received",
+                        "eventSequenceNumber": 36.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-04-28",
+                        "eventDescriptionText": "Workflow - Drawings Received at Contractor",
+                        "eventSequenceNumber": 35.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 65,
+                        "eventDate": "2003-04-28",
+                        "eventDescriptionText": "Workflow - Drawings Sent to Contractor",
+                        "eventSequenceNumber": 34.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 34.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-04-15",
+                        "eventDescriptionText": "Workflow - File Sent to Contractor",
+                        "eventSequenceNumber": 33.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-04-14",
+                        "eventDescriptionText": "Receipt into Pubs",
+                        "eventSequenceNumber": 32.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-04-09",
+                        "eventDescriptionText": "Dispatch to Publications",
+                        "eventSequenceNumber": 31.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-04-02",
+                        "eventDescriptionText": "Mail Notice of Allowance",
+                        "eventSequenceNumber": 30.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-04-01",
+                        "eventDescriptionText": "Notice of Allowance Data Verification Completed",
+                        "eventSequenceNumber": 29.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-03-31",
+                        "eventDescriptionText": "Allowability Notice",
+                        "eventSequenceNumber": 28.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-03-19",
+                        "eventDescriptionText": "Mail Miscellaneous Communication to Applicant",
+                        "eventSequenceNumber": 27.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-03-19",
+                        "eventDescriptionText": "Miscellaneous Communication to Applicant - No Action Count",
+                        "eventSequenceNumber": 26.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-03-11",
+                        "eventDescriptionText": "Date Forwarded to Examiner",
+                        "eventSequenceNumber": 25.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-02-27",
+                        "eventDescriptionText": "Amendment Submitted/Entered with Filing of CPA/RCE",
+                        "eventSequenceNumber": 24.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-03-11",
+                        "eventDescriptionText": "Date Forwarded to Examiner",
+                        "eventSequenceNumber": 23.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-02-27",
+                        "eventDescriptionText": "Request for Continued Examination (RCE)",
+                        "eventSequenceNumber": 22.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-03-11",
+                        "eventDescriptionText": "Disposal for a RCE / CPA / R129",
+                        "eventSequenceNumber": 21.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-02-26",
+                        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+                        "eventSequenceNumber": 20.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-02-27",
+                        "eventDescriptionText": "Workflow - Request for RCE - Begin",
+                        "eventSequenceNumber": 19.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-02-13",
+                        "eventDescriptionText": "Mail Notice of Allowance",
+                        "eventSequenceNumber": 18.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-02-13",
+                        "eventDescriptionText": "Notice of Allowance Data Verification Completed",
+                        "eventSequenceNumber": 17.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-02-13",
+                        "eventDescriptionText": "Allowability Notice",
+                        "eventSequenceNumber": 16.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-02-11",
+                        "eventDescriptionText": "Date Forwarded to Examiner",
+                        "eventSequenceNumber": 15.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 35,
+                        "eventDate": "2003-01-29",
+                        "eventDescriptionText": "Response after Non-Final Action",
+                        "eventSequenceNumber": 14.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 12.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2003-01-29",
+                        "eventDescriptionText": "Request for Extension of Time - Granted",
+                        "eventSequenceNumber": 13.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2002-09-25",
+                        "eventDescriptionText": "Mail Non-Final Rejection",
+                        "eventSequenceNumber": 12.0,
+                        "ipOfficeDayDelayQuantity": 120,
+                        "originatingEventSequenceNumber": -1.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2002-09-23",
+                        "eventDescriptionText": "Non-Final Rejection",
+                        "eventSequenceNumber": 11.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2002-09-23",
+                        "eventDescriptionText": "Case Docketed to Examiner in GAU",
+                        "eventSequenceNumber": 10.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2002-04-17",
+                        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+                        "eventSequenceNumber": 9.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2002-02-07",
+                        "eventDescriptionText": "Case Docketed to Examiner in GAU",
+                        "eventSequenceNumber": 8.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2002-02-05",
+                        "eventDescriptionText": "Case Docketed to Examiner in GAU",
+                        "eventSequenceNumber": 7.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2001-08-06",
+                        "eventDescriptionText": "Information Disclosure Statement (IDS) Filed",
+                        "eventSequenceNumber": 6.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2001-07-20",
+                        "eventDescriptionText": "Case Docketed to Examiner in GAU",
+                        "eventSequenceNumber": 5.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2001-05-01",
+                        "eventDescriptionText": "Application Dispatched from OIPE",
+                        "eventSequenceNumber": 4.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2001-04-27",
+                        "eventDescriptionText": "Correspondence Address Change",
+                        "eventSequenceNumber": 3.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2001-04-11",
+                        "eventDescriptionText": "IFW Scan & PACR Auto Security Review",
+                        "eventSequenceNumber": 2.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    },
+                    {
+                        "applicantDayDelayQuantity": 0,
+                        "eventDate": "2001-03-28",
+                        "eventDescriptionText": "Initial Exam Team nn",
+                        "eventSequenceNumber": 1.0,
+                        "ipOfficeDayDelayQuantity": 0,
+                        "originatingEventSequenceNumber": 0.0,
+                        "ptaPTECode": "PTA"
+                    }
+                ]
+            },
+            "recordAttorney": {
+                "attorneyBag": [
+                    {
+                        "activeIndicator": "ACTIVE",
+                        "attorneyAddressBag": [
+                            {
+                                "addressLineOneText": "21760 STEVENS CREEK BLVD.",
+                                "addressLineTwoText": "SUITE 100",
+                                "cityName": "CUPERTINO",
+                                "countryCode": "US",
+                                "countryName": "UNITED STATES",
+                                "geographicRegionCode": "CA",
+                                "geographicRegionName": "CALIFORNIA",
+                                "nameLineOneText": "VISTA IP LAW GROUP LLP",
+                                "postalCode": "95014"
+                            }
+                        ],
+                        "firstName": "DAVID",
+                        "lastName": "BURSE",
+                        "registeredPractitionerCategory": "ATTNY",
+                        "registrationNumber": "37104",
+                        "telecommunicationAddressBag": [
+                            {
+                                "telecomTypeCode": "TEL",
+                                "telecommunicationNumber": "408-777-2905"
+                            }
+                        ]
+                    },
+                    {
+                        "activeIndicator": "ACTIVE",
+                        "attorneyAddressBag": [
+                            {
+                                "addressLineOneText": "100 SPECTRUM CENTER DRIVE",
+                                "addressLineTwoText": "SUITE 900",
+                                "cityName": "IRVINE",
+                                "countryCode": "US",
+                                "countryName": "UNITED STATES",
+                                "geographicRegionCode": "CA",
+                                "geographicRegionName": "CALIFORNIA",
+                                "nameLineOneText": "VISTA IP LAW GROUP LLP",
+                                "postalCode": "92618"
+                            }
+                        ],
+                        "firstName": "JAMES",
+                        "lastName": "SAKAGUCHI",
+                        "registeredPractitionerCategory": "ATTNY",
+                        "registrationNumber": "41285",
+                        "telecommunicationAddressBag": [
+                            {
+                                "telecomTypeCode": "TEL",
+                                "telecommunicationNumber": "760-803-5967"
+                            }
+                        ]
+                    },
+                    {
+                        "activeIndicator": "ACTIVE",
+                        "attorneyAddressBag": [
+                            {
+                                "addressLineOneText": "2040 MAIN STREET",
+                                "addressLineTwoText": "9TH FLOOR",
+                                "cityName": "IRVINE",
+                                "countryCode": "US",
+                                "countryName": "UNITED STATES",
+                                "geographicRegionCode": "CA",
+                                "geographicRegionName": "CALIFORNIA",
+                                "nameLineOneText": "VISTA IP LAW GROUP LLP",
+                                "postalCode": "92614"
+                            }
+                        ],
+                        "firstName": "MICHAEL",
+                        "lastName": "BOLAN",
+                        "registeredPractitionerCategory": "AGENT",
+                        "registrationNumber": "42339",
+                        "telecommunicationAddressBag": [
+                            {
+                                "telecomTypeCode": "TEL",
+                                "telecommunicationNumber": "--"
+                            }
+                        ]
+                    },
+                    {
+                        "activeIndicator": "ACTIVE",
+                        "attorneyAddressBag": [
+                            {
+                                "addressLineOneText": "1941 STRYKER WAY",
+                                "cityName": "PORTAGE",
+                                "countryCode": "US",
+                                "countryName": "UNITED STATES",
+                                "geographicRegionCode": "MI",
+                                "geographicRegionName": "MICHIGAN",
+                                "nameLineOneText": "STRYKER",
+                                "postalCode": "49002"
+                            }
+                        ],
+                        "firstName": "ADAM",
+                        "lastName": "STRAUSS",
+                        "middleName": "B",
+                        "registeredPractitionerCategory": "ATTNY",
+                        "registrationNumber": "43167",
+                        "telecommunicationAddressBag": [
+                            {
+                                "telecomTypeCode": "TEL",
+                                "telecommunicationNumber": "269-389-7545"
+                            }
+                        ]
+                    },
+                    {
+                        "activeIndicator": "ACTIVE",
+                        "attorneyAddressBag": [
+                            {
+                                "addressLineOneText": "2160 LUNDY AVENUE",
+                                "addressLineTwoText": "SUITE 230",
+                                "cityName": "SAN JOSE",
+                                "countryCode": "US",
+                                "countryName": "UNITED STATES",
+                                "geographicRegionCode": "CA",
+                                "geographicRegionName": "CALIFORNIA",
+                                "nameLineOneText": "VISTA IP LAW GROUP , LLP",
+                                "postalCode": "95131"
+                            }
+                        ],
+                        "firstName": "GERALD",
+                        "lastName": "CHAN",
+                        "registeredPractitionerCategory": "ATTNY",
+                        "registrationNumber": "51541",
+                        "telecommunicationAddressBag": [
+                            {
+                                "telecomTypeCode": "TEL",
+                                "telecommunicationNumber": "510-329-1009"
+                            }
+                        ]
+                    },
+                    {
+                        "activeIndicator": "ACTIVE",
+                        "attorneyAddressBag": [
+                            {
+                                "addressLineOneText": "47900 BAYSIDE PARKWAY",
+                                "cityName": "FREMONT",
+                                "countryCode": "US",
+                                "countryName": "UNITED STATES",
+                                "geographicRegionCode": "CA",
+                                "geographicRegionName": "CALIFORNIA",
+                                "nameLineOneText": "STRYKER CORPORATION",
+                                "postalCode": "94538"
+                            }
+                        ],
+                        "firstName": "MICHAEL",
+                        "lastName": "RODRIGUEZ",
+                        "registeredPractitionerCategory": "ATTNY",
+                        "registrationNumber": "53528",
+                        "telecommunicationAddressBag": [
+                            {
+                                "telecomTypeCode": "TEL",
+                                "telecommunicationNumber": "510-594-9436"
+                            }
+                        ]
+                    },
+                    {
+                        "activeIndicator": "ACTIVE",
+                        "attorneyAddressBag": [
+                            {
+                                "addressLineOneText": "21760 STEVENS CREEK BLVD., SUITE 100",
+                                "cityName": "CUPERTINO",
+                                "countryCode": "US",
+                                "countryName": "UNITED STATES",
+                                "geographicRegionCode": "CA",
+                                "geographicRegionName": "CALIFORNIA",
+                                "nameLineOneText": "VISTA IP LAW GROUP LLP",
+                                "postalCode": "95014"
+                            }
+                        ],
+                        "firstName": "KEVIN",
+                        "lastName": "LEUNG",
+                        "registeredPractitionerCategory": "ATTNY",
+                        "registrationNumber": "67243",
+                        "telecommunicationAddressBag": [
+                            {
+                                "telecomTypeCode": "TEL",
+                                "telecommunicationNumber": "408-777-2904"
+                            }
+                        ]
+                    }
+                ],
+                "customerNumberCorrespondenceData": {
+                    "patronIdentifier": 41696,
+                    "powerOfAttorneyAddressBag": [
+                        {
+                            "addressLineOneText": "100 Spectrum Center Drive, Suite 900",
+                            "cityName": "Irvine",
+                            "countryCode": "US",
+                            "countryName": "UNITED STATES",
+                            "geographicRegionCode": "CA",
+                            "geographicRegionName": "CALIFORNIA",
+                            "nameLineOneText": "VISTA IP LAW GROUP LLP",
+                            "postalCode": "92618"
+                        }
+                    ]
+                },
+                "powerOfAttorneyBag": [
+                    {
+                        "activeIndicator": "ACTIVE",
+                        "attorneyAddressBag": [
+                            {
+                                "addressLineOneText": "1440 N. HARBOR BLVD",
+                                "addressLineTwoText": "SUITE 900",
+                                "cityName": "FULLERTON",
+                                "countryCode": "US",
+                                "countryName": "UNITED STATES",
+                                "geographicRegionCode": "CA",
+                                "geographicRegionName": "CALIFORNIA",
+                                "nameLineOneText": "VISTA IP LAW GROUP LLP",
+                                "postalCode": "92835"
+                            }
+                        ],
+                        "firstName": "WILLIAM",
+                        "lastName": "ENGLISH",
+                        "registeredPractitionerCategory": "ATTNY",
+                        "registrationNumber": "42515",
+                        "telecommunicationAddressBag": [
+                            {
+                                "telecomTypeCode": "TEL",
+                                "telecommunicationNumber": "714-449-8433"
+                            }
+                        ]
+                    },
+                    {
+                        "activeIndicator": "ACTIVE",
+                        "attorneyAddressBag": [
+                            {
+                                "addressLineOneText": "2040 MAIN STREET",
+                                "addressLineTwoText": "9TH FLOOR",
+                                "cityName": "IRVINE",
+                                "countryCode": "US",
+                                "countryName": "UNITED STATES",
+                                "geographicRegionCode": "CA",
+                                "geographicRegionName": "CALIFORNIA",
+                                "nameLineOneText": "VISTA IP LAW GROUP LLP",
+                                "postalCode": "92614"
+                            }
+                        ],
+                        "firstName": "MICHAEL",
+                        "lastName": "BOLAN",
+                        "registeredPractitionerCategory": "AGENT",
+                        "registrationNumber": "42339",
+                        "telecommunicationAddressBag": [
+                            {
+                                "telecomTypeCode": "TEL",
+                                "telecommunicationNumber": "--"
+                            }
+                        ]
+                    },
+                    {
+                        "activeIndicator": "ACTIVE",
+                        "attorneyAddressBag": [
+                            {
+                                "addressLineOneText": "100 SPECTRUM CENTER DRIVE",
+                                "addressLineTwoText": "SUITE 900",
+                                "cityName": "IRVINE",
+                                "countryCode": "US",
+                                "countryName": "UNITED STATES",
+                                "geographicRegionCode": "CA",
+                                "geographicRegionName": "CALIFORNIA",
+                                "nameLineOneText": "VISTA IP LAW GROUP LLP",
+                                "postalCode": "92618"
+                            }
+                        ],
+                        "firstName": "GARY",
+                        "lastName": "LUECK",
+                        "registeredPractitionerCategory": "ATTNY",
+                        "registrationNumber": "50791",
+                        "telecommunicationAddressBag": [
+                            {
+                                "telecomTypeCode": "TEL",
+                                "telecommunicationNumber": "310-613-7739"
+                            }
+                        ]
+                    },
+                    {
+                        "activeIndicator": "ACTIVE",
+                        "attorneyAddressBag": [
+                            {
+                                "addressLineOneText": "21760 STEVENS CREEK BLVD., SUITE 100",
+                                "cityName": "CUPERTINO",
+                                "countryCode": "US",
+                                "countryName": "UNITED STATES",
+                                "geographicRegionCode": "CA",
+                                "geographicRegionName": "CALIFORNIA",
+                                "nameLineOneText": "VISTA IP LAW GROUP LLP",
+                                "postalCode": "95014"
+                            }
+                        ],
+                        "firstName": "KEVIN",
+                        "lastName": "LEUNG",
+                        "registeredPractitionerCategory": "ATTNY",
+                        "registrationNumber": "67243",
+                        "telecommunicationAddressBag": [
+                            {
+                                "telecomTypeCode": "TEL",
+                                "telecommunicationNumber": "408-777-2904"
+                            }
+                        ]
+                    },
+                    {
+                        "activeIndicator": "ACTIVE",
+                        "attorneyAddressBag": [
+                            {
+                                "addressLineOneText": "2160 LUNDY AVENUE",
+                                "addressLineTwoText": "SUITE 230",
+                                "cityName": "SAN JOSE",
+                                "countryCode": "US",
+                                "countryName": "UNITED STATES",
+                                "geographicRegionCode": "CA",
+                                "geographicRegionName": "CALIFORNIA",
+                                "nameLineOneText": "VISTA IP LAW GROUP , LLP",
+                                "postalCode": "95131"
+                            }
+                        ],
+                        "firstName": "GERALD",
+                        "lastName": "CHAN",
+                        "registeredPractitionerCategory": "ATTNY",
+                        "registrationNumber": "51541",
+                        "telecommunicationAddressBag": [
+                            {
+                                "telecomTypeCode": "TEL",
+                                "telecommunicationNumber": "510-329-1009"
+                            }
+                        ]
+                    },
+                    {
+                        "activeIndicator": "ACTIVE",
+                        "attorneyAddressBag": [
+                            {
+                                "addressLineOneText": "100 SPECTRUM CENTER DRIVE",
+                                "addressLineTwoText": "SUITE 900",
+                                "cityName": "IRVINE",
+                                "countryCode": "US",
+                                "countryName": "UNITED STATES",
+                                "geographicRegionCode": "CA",
+                                "geographicRegionName": "CALIFORNIA",
+                                "nameLineOneText": "VISTA IP LAW GROUP LLP",
+                                "postalCode": "92618"
+                            }
+                        ],
+                        "firstName": "JAMES",
+                        "lastName": "SAKAGUCHI",
+                        "registeredPractitionerCategory": "ATTNY",
+                        "registrationNumber": "41285",
+                        "telecommunicationAddressBag": [
+                            {
+                                "telecomTypeCode": "TEL",
+                                "telecommunicationNumber": "760-803-5967"
+                            }
+                        ]
+                    },
+                    {
+                        "activeIndicator": "ACTIVE",
+                        "attorneyAddressBag": [
+                            {
+                                "addressLineOneText": "2160 LUNDY AVENUE",
+                                "addressLineTwoText": "SUITE 230",
+                                "cityName": "SAN JOSE",
+                                "countryCode": "US",
+                                "countryName": "UNITED STATES",
+                                "geographicRegionCode": "CA",
+                                "geographicRegionName": "CALIFORNIA",
+                                "nameLineOneText": "VISTA IP LAW GROUP, LLP",
+                                "postalCode": "95131"
+                            }
+                        ],
+                        "firstName": "PETER",
+                        "lastName": "MEI",
+                        "registeredPractitionerCategory": "ATTNY",
+                        "registrationNumber": "39768",
+                        "telecommunicationAddressBag": [
+                            {
+                                "telecomTypeCode": "TEL",
+                                "telecommunicationNumber": "408-321-8663 EXT. 20"
+                            }
+                        ]
+                    },
+                    {
+                        "activeIndicator": "ACTIVE",
+                        "attorneyAddressBag": [
+                            {
+                                "addressLineOneText": "100 SPECTRUM CENTER DRIVE",
+                                "addressLineTwoText": "SUITE 900",
+                                "cityName": "IRVINE",
+                                "countryCode": "US",
+                                "countryName": "UNITED STATES",
+                                "geographicRegionCode": "CA",
+                                "geographicRegionName": "CALIFORNIA",
+                                "nameLineOneText": "VISTA IP LAW GROUP LLP",
+                                "postalCode": "92618"
+                            }
+                        ],
+                        "firstName": "MICHAEL",
+                        "lastName": "DAVIDSON",
+                        "registeredPractitionerCategory": "ATTNY",
+                        "registrationNumber": "43577",
+                        "telecommunicationAddressBag": [
+                            {
+                                "telecomTypeCode": "TEL",
+                                "telecommunicationNumber": "925-299-2922"
+                            }
+                        ]
+                    },
+                    {
+                        "activeIndicator": "ACTIVE",
+                        "attorneyAddressBag": [
+                            {
+                                "addressLineOneText": "21760 STEVENS CREEK BLVD.",
+                                "addressLineTwoText": "SUITE 100",
+                                "cityName": "CUPERTINO",
+                                "countryCode": "US",
+                                "countryName": "UNITED STATES",
+                                "geographicRegionCode": "CA",
+                                "geographicRegionName": "CALIFORNIA",
+                                "nameLineOneText": "VISTA IP LAW GROUP LLP",
+                                "postalCode": "95014"
+                            }
+                        ],
+                        "firstName": "DAVID",
+                        "lastName": "BURSE",
+                        "registeredPractitionerCategory": "ATTNY",
+                        "registrationNumber": "37104",
+                        "telecommunicationAddressBag": [
+                            {
+                                "telecomTypeCode": "TEL",
+                                "telecommunicationNumber": "408-777-2905"
+                            }
+                        ]
+                    },
+                    {
+                        "activeIndicator": "ACTIVE",
+                        "attorneyAddressBag": [
+                            {
+                                "addressLineOneText": "100 SPECTRUM CENTER DRIVE",
+                                "addressLineTwoText": "SUITE 900",
+                                "cityName": "IRVINE",
+                                "countryCode": "US",
+                                "countryName": "UNITED STATES",
+                                "geographicRegionCode": "CA",
+                                "geographicRegionName": "CALIFORNIA",
+                                "nameLineOneText": "VISTA IP LAW GROUP LLP",
+                                "postalCode": "92618"
+                            }
+                        ],
+                        "firstName": "NEAL",
+                        "lastName": "COHEN",
+                        "registeredPractitionerCategory": "ATTNY",
+                        "registrationNumber": "41683",
+                        "telecommunicationAddressBag": [
+                            {
+                                "telecomTypeCode": "TEL",
+                                "telecommunicationNumber": "949-724-1849"
+                            }
+                        ]
+                    },
+                    {
+                        "activeIndicator": "ACTIVE",
+                        "attorneyAddressBag": [
+                            {
+                                "addressLineOneText": "2160 LUNDY AVENUE, SUITE 230",
+                                "cityName": "SAN JOSE",
+                                "countryCode": "US",
+                                "countryName": "UNITED STATES",
+                                "geographicRegionCode": "CA",
+                                "geographicRegionName": "CALIFORNIA",
+                                "nameLineOneText": "VISTA IP LAW GROUP, LLP",
+                                "postalCode": "95131"
+                            }
+                        ],
+                        "firstName": "DYLAN",
+                        "lastName": "SCHECHTER",
+                        "registeredPractitionerCategory": "ATTNY",
+                        "registrationNumber": "73165",
+                        "telecommunicationAddressBag": [
+                            {
+                                "telecomTypeCode": "TEL",
+                                "telecommunicationNumber": "408-321-8663"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}
