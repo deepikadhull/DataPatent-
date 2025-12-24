@@ -1,10 +1,10 @@
 test file for commit.
-API Lifecyle for Integration manager role#
-High-Level Phases#
+************API Lifecyle for Integration manager role***********
+*****High-Level Phases# ------
 
-Strategy & Requirement Discovery
+a.) Strategy & Requirement Discovery
 
-API Design & Contract Definition
+b.) API Design & Contract Definition
 
 Security & Access Planning
 
